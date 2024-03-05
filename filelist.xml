@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Regrettable Life Actions" modversion="1.0.4" corepackage="False" steamworkshopid="3051769682" gameversion="1.2.8.0">
+<contentpackage name="Regrettable Life Actions" modversion="2.0" corepackage="False" steamworkshopid="3051769682" gameversion="1.2.8.0">
   <Item file="%ModDir%/thinkfast.xml" />
-  <Submarine file="%ModDir%/Testing Ground.sub" />
   <Submarine file="%ModDir%/! Testing Ground.sub" />
 </contentpackage>
